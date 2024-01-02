@@ -1,6 +1,8 @@
 AUTHOR = 'aaron hauck'
 SITENAME = 'discovered mate'
-SITEURL = ""
+SITEURL = "https://discoveredmate.github.io/pelican"
+OUTPUT_PATH = "output/"
+GITHUB_PAGES_BRANCH = "gh-pages"
 
 PATH = "content"
 
